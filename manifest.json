@@ -8,7 +8,7 @@
   "theme_color": "#a78bfa",
   "orientation": "portrait",
   "icons": [
-    {
+    { 
       "src": "icons/icon-72.png",
       "sizes": "72x72",
       "type": "image/png"
